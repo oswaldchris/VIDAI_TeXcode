@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: acl_latex.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+The style file: acl_natbib.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: papers.bib
+Warning--entry type for "vidukathaitamil" isn't style-file defined
+--line 442 of file papers.bib
+Warning--entry type for "tamilvidukathaigal2020" isn't style-file defined
+--line 450 of file papers.bib
+Warning--entry type for "tamilvidukathaigal2024" isn't style-file defined
+--line 457 of file papers.bib
+Warning--entry type for "tamilvidukathaigalquiz" isn't style-file defined
+--line 464 of file papers.bib
+Warning--entry type for "tamilmolzigalvidukathaigal" isn't style-file defined
+--line 471 of file papers.bib
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Warning--empty booktitle in fu2023complexitybasedpromptingmultistepreasoning
+Warning--empty booktitle in jerome2024inductivereasoninginhumansandllms
+Warning--missing publisher in purapporulvenbamaalai
+Warning--empty booktitle in lin2025reasoningbiastokenprediction
+Warning--empty booktitle in liu2024multilingualllmsculturallydiversereasoners
+Warning--missing publisher in tolkappiyam
+Warning--empty booktitle in wei2022emergentabilitieslargelanguage
+Warning--empty booktitle in xu2023ccriddlequestionansweringdataset
+Warning--empty booktitle in zhang2022birdqabilingualdatasetquestion
+You've used 30 entries,
+            3571 wiz_defined-function locations,
+            884 strings with 14149 characters,
+and the built_in function-call counts, 24074 in all, are:
+= -- 1950
+> -- 1406
+< -- 25
++ -- 461
+- -- 426
+* -- 1640
+:= -- 3638
+add.period$ -- 121
+call.type$ -- 30
+change.case$ -- 313
+chr.to.int$ -- 31
+cite$ -- 39
+duplicate$ -- 1585
+empty$ -- 1669
+format.name$ -- 498
+if$ -- 5266
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 337
+newline$ -- 143
+num.names$ -- 120
+pop$ -- 783
+preamble$ -- 1
+purify$ -- 262
+quote$ -- 0
+skip$ -- 1085
+stack$ -- 0
+substring$ -- 680
+swap$ -- 797
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 252
+warning$ -- 9
+while$ -- 115
+width$ -- 0
+write$ -- 379
+(There were 14 warnings)

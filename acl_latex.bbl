@@ -1,0 +1,239 @@
+\begin{thebibliography}{30}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Agarwal et~al.(2025)Agarwal, Singh, Zhang, Bohnet, Rosias, Chan,
+  Zhang, Anand, Abbas, Nova, Co-Reyes, Chu, Behbahani, Faust, and
+  Larochelle}]{agarwal2025manyshotincontextlearning}
+Rishabh Agarwal, Avi Singh, Lei Zhang, Bernd Bohnet, Luis Rosias, Stephanie
+  Chan, Biao Zhang, Ankesh Anand, Zaheer Abbas, Azade Nova, John~D. Co-Reyes,
+  Eric Chu, Feryal Behbahani, Aleksandra Faust, and Hugo Larochelle. 2025.
+\newblock Many-shot in-context learning.
+\newblock In \emph{Proceedings of the 38th International Conference on Neural
+  Information Processing Systems}, NIPS '24, Red Hook, NY, USA. Curran
+  Associates Inc.
+
+\bibitem[{Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal,
+  Neelakantan, Shyam, Sastry, Askell, Agarwal, Herbert-Voss, Krueger, Henighan,
+  Child, Ramesh, Ziegler, Wu, Winter, Hesse, Chen, Sigler, Litwin, Gray, Chess,
+  Clark, Berner, McCandlish, Radford, Sutskever, and
+  Amodei}]{brown2020languagemodelsfewshotlearners}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei. 2020.
+\newblock Language models are few-shot learners.
+\newblock In \emph{Proceedings of the 34th International Conference on Neural
+  Information Processing Systems}, NIPS '20, Red Hook, NY, USA. Curran
+  Associates Inc.
+
+\bibitem[{Dheivegam(2023)}]{vidukathaitamil}
+Dheivegam. 2023.
+\newblock \href {https://dheivegam.com/vidukathai-tamil/} {Tamiḻ
+  viṭukataikaḷ 300}.
+
+\bibitem[{FreshTamil.com(2020)}]{tamilvidukathaigal2020}
+FreshTamil.com. 2020.
+\newblock \href
+  {https://www.freshtamil.com/2020/04/tamil-vidukathaigal-in-tamil/} {Tamiḻ
+  viṭukataikaḷ | 100+ vidukathaigal in tamil | tamil riddles}.
+
+\bibitem[{FreshTamil.com(2024)}]{tamilvidukathaigal2024}
+FreshTamil.com. 2024.
+\newblock \href
+  {https://www.freshtamil.com/2018/11/tamil-vidukathaigal-with-answers/}
+  {Tamiḻ viṭukataikaḷ viṭaiyuṭaṉ 2024 | tamil vidukathaigal}.
+
+\bibitem[{Fu et~al.(2023)Fu, Peng, Sabharwal, Clark, and
+  Khot}]{fu2023complexitybasedpromptingmultistepreasoning}
+Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, and Tushar Khot. 2023.
+\newblock \href {http://arxiv.org/abs/2210.00720} {Complexity-based prompting
+  for multi-step reasoning}.
+
+\bibitem[{Giadikiaroglou et~al.(2024)Giadikiaroglou, Lymperaiou, Filandrianos,
+  and Stamou}]{giadikiaroglou-etal-2024-puzzle}
+Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, and Giorgos
+  Stamou. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.emnlp-main.646} {Puzzle
+  solving using reasoning of large language models: A survey}.
+\newblock In \emph{Proceedings of the 2024 Conference on Empirical Methods in
+  Natural Language Processing}, pages 11574--11591, Miami, Florida, USA.
+  Association for Computational Linguistics.
+
+\bibitem[{Han et~al.(2024)Han, Ransom, Perfors, and
+  Kemp}]{jerome2024inductivereasoninginhumansandllms}
+Simon~Jerome Han, Keith~J. Ransom, Andrew Perfors, and Charles Kemp. 2024.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.cogsys.2023.101155}
+  {Inductive reasoning in humans and large language models}.
+\newblock volume~83, page 101155.
+
+\bibitem[{Iyyanarithanar(9th Century CE)}]{purapporulvenbamaalai}
+Iyyanarithanar. 9th Century CE.
+\newblock \emph{Purapporul Venbamaalai}.
+\newblock Classical Tamil grammatical treatise on the \textit{puram} genre.
+
+\bibitem[{Jiang et~al.(2023)Jiang, Ilievski, Ma, and
+  Sourati}]{jiang-etal-2023-brainteaser}
+Yifan Jiang, Filip Ilievski, Kaixin Ma, and Zhivar Sourati. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.emnlp-main.885}
+  {{BRAINTEASER}: Lateral thinking puzzles for large language models}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing}, pages 14317--14332, Singapore. Association for
+  Computational Linguistics.
+
+\bibitem[{Kojima et~al.(2022)Kojima, Gu, Reid, Matsuo, and
+  Iwasawa}]{kojima2022largelanguagemodelsarezeroshotreasoners}
+Takeshi Kojima, Shixiang~Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke
+  Iwasawa. 2022.
+\newblock Large language models are zero-shot reasoners.
+\newblock In \emph{Proceedings of the 36th International Conference on Neural
+  Information Processing Systems}, NIPS '22, Red Hook, NY, USA. Curran
+  Associates Inc.
+
+\bibitem[{Lehmann(1993)}]{lehmann1993grammar}
+Thomas Lehmann. 1993.
+\newblock \emph{A Grammar of Modern Tamil}.
+\newblock Pondicherry Institute of Linguistics and Culture, Pondicherry, India.
+
+\bibitem[{Lin et~al.(2021)Lin, Wu, Yang, Lee, and
+  Ren}]{lin-etal-2021-riddlesense}
+Bill~Yuchen Lin, Ziyi Wu, Yichi Yang, Dong-Ho Lee, and Xiang Ren. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.findings-acl.131}
+  {{R}iddle{S}ense: Reasoning about riddle questions featuring linguistic
+  creativity and commonsense knowledge}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL-IJCNLP 2021}, pages 1504--1515, Online. Association for Computational
+  Linguistics.
+
+\bibitem[{Lin et~al.(2025)Lin, Zhang, and
+  Xu}]{lin2025reasoningbiastokenprediction}
+Pengxiao Lin, Zhongwang Zhang, and Zhi-Qin~John Xu. 2025.
+\newblock \href {http://arxiv.org/abs/2502.02007} {Reasoning bias of next token
+  prediction training}.
+
+\bibitem[{Liu et~al.(2024)Liu, Koto, Baldwin, and
+  Gurevych}]{liu2024multilingualllmsculturallydiversereasoners}
+Chen~Cecilia Liu, Fajri Koto, Timothy Baldwin, and Iryna Gurevych. 2024.
+\newblock \href {http://arxiv.org/abs/2309.08591} {Are multilingual llms
+  culturally-diverse reasoners? an investigation into multicultural proverbs
+  and sayings}.
+
+\bibitem[{Liu et~al.(2022)Liu, Shen, Zhang, Dolan, Carin, and
+  Chen}]{liu-etal-2022-makes}
+Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu
+  Chen. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.deelio-1.10} {What makes good
+  in-context examples for {GPT}-3?}
+\newblock In \emph{Proceedings of Deep Learning Inside Out (DeeLIO 2022): The
+  3rd Workshop on Knowledge Extraction and Integration for Deep Learning
+  Architectures}, pages 100--114, Dublin, Ireland and Online. Association for
+  Computational Linguistics.
+
+\bibitem[{Manivasan(2018)}]{500tamilriddlesbook}
+N.~Manivasan. 2018.
+\newblock \href
+  {https://drive.google.com/file/d/16dpZ3ySLDD5s91oLMHBPTWZZN59PqEC0/view}
+  {\emph{500 Viṭukataikaḷum ataṉ aṟputa patilkaḷum}}.
+\newblock aedahamlibrary.
+
+\bibitem[{Muthaiah(1987)}]{1000tamilriddlesbook}
+Mullai Muthaiah. 1987.
+\newblock \href
+  {https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0011794_1000_%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%A4%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf}
+  {\emph{1000 Viṭukataikaḷ}}, 2 edition.
+\newblock New Century Book House Private Limited, 41-B. CITCO Industrial
+  Estate, Chennai - 600098.
+
+\bibitem[{Panagiotopoulos et~al.(2025)Panagiotopoulos, Filandrianos,
+  Lymperaiou, and Stamou}]{panagiotopoulos-etal-2025-riscore}
+Ioannis Panagiotopoulos, George Filandrianos, Maria Lymperaiou, and Giorgos
+  Stamou. 2025.
+\newblock \href {https://aclanthology.org/2025.coling-main.633/} {{RISCORE}:
+  Enhancing in-context riddle solving in language models through
+  context-reconstructed example augmentation}.
+\newblock In \emph{Proceedings of the 31st International Conference on
+  Computational Linguistics}, pages 9431--9455, Abu Dhabi, UAE. Association for
+  Computational Linguistics.
+
+\bibitem[{Sanchez-Bayona and
+  Agerri(2025)}]{sanchez-bayona-agerri-2025-metaphor}
+Elisa Sanchez-Bayona and Rodrigo Agerri. 2025.
+\newblock \href {https://doi.org/10.18653/v1/2025.findings-acl.898} {Metaphor
+  and large language models: When surface features matter more than deep
+  understanding}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2025}, pages 17462--17477, Vienna, Austria. Association for Computational
+  Linguistics.
+
+\bibitem[{Schiffman(1999)}]{schiffman1999spoken}
+Harold~F. Schiffman. 1999.
+\newblock \emph{A Reference Grammar of Spoken Tamil}.
+\newblock Cambridge University Press, Cambridge, UK.
+
+\bibitem[{Tan et~al.(2016)Tan, Wei, Dong, Lv, and Zhou}]{tan-etal-2016-solving}
+Chuanqi Tan, Furu Wei, Li~Dong, Weifeng Lv, and Ming Zhou. 2016.
+\newblock \href {https://doi.org/10.18653/v1/D16-1081} {Solving and generating
+  {C}hinese character riddles}.
+\newblock In \emph{Proceedings of the 2016 Conference on Empirical Methods in
+  Natural Language Processing}, pages 846--855, Austin, Texas. Association for
+  Computational Linguistics.
+
+\bibitem[{{Tolkāppiyar}(Ancient)}]{tolkappiyam}
+{Tolkāppiyar}. Ancient.
+\newblock \emph{Tolkāppiyam}.
+\newblock Earliest extant Tamil grammatical text, dating between 500 BCE–500
+  CE depending on tradition.
+
+\bibitem[{Tong et~al.(2024)Tong, Choenni, Lewis, and
+  Shutova}]{tong-etal-2024-metaphor}
+Xiaoyu Tong, Rochelle Choenni, Martha Lewis, and Ekaterina Shutova. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.acl-long.193} {Metaphor
+  understanding challenge dataset for {LLM}s}.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 3517--3536,
+  Bangkok, Thailand. Association for Computational Linguistics.
+
+\bibitem[{Vidukathaigal(2025)}]{tamilmolzigalvidukathaigal}
+Vidukathaigal. 2025.
+\newblock \href {https://varunquotes.blogspot.com/p/blog-page_12.html} {Tamil
+  molikal: Vidukathaigal}.
+
+\bibitem[{Vinaval(2025)}]{tamilvidukathaigalquiz}
+Vinaval. 2025.
+\newblock \href {https://quiz.tamil.help/riddle} {Vidukathai vina vidaighal |
+  vinaval}.
+
+\bibitem[{Wei et~al.(2022{\natexlab{a}})Wei, Tay, Bommasani, Raffel, Zoph,
+  Borgeaud, Yogatama, Bosma, Zhou, Metzler, Chi, Hashimoto, Vinyals, Liang,
+  Dean, and Fedus}]{wei2022emergentabilitieslargelanguage}
+Jason Wei, Yi~Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian
+  Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed~H.
+  Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William
+  Fedus. 2022{\natexlab{a}}.
+\newblock \href {http://arxiv.org/abs/2206.07682} {Emergent abilities of large
+  language models}.
+
+\bibitem[{Wei et~al.(2022{\natexlab{b}})Wei, Wang, Schuurmans, Bosma, Ichter,
+  Xia, Chi, Le, and Zhou}]{wei2022cotpromptingelicitsreasoninginllms}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~H. Chi, Quoc~V. Le, and Denny Zhou. 2022{\natexlab{b}}.
+\newblock Chain-of-thought prompting elicits reasoning in large language
+  models.
+\newblock In \emph{Proceedings of the 36th International Conference on Neural
+  Information Processing Systems}, NIPS '22, Red Hook, NY, USA. Curran
+  Associates Inc.
+
+\bibitem[{Xu et~al.(2023)Xu, Zhang, and
+  Wan}]{xu2023ccriddlequestionansweringdataset}
+Fan Xu, Yunxiang Zhang, and Xiaojun Wan. 2023.
+\newblock \href {http://arxiv.org/abs/2206.13778} {Cc-riddle: A question
+  answering dataset of chinese character riddles}.
+
+\bibitem[{Zhang and Wan(2022)}]{zhang2022birdqabilingualdatasetquestion}
+Yunxiang Zhang and Xiaojun Wan. 2022.
+\newblock \href {http://arxiv.org/abs/2109.11087} {Birdqa: A bilingual dataset
+  for question answering on tricky riddles}.
+
+\end{thebibliography}
