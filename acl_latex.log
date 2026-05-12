@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.12)  12 MAY 2026 12:47
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.12)  12 MAY 2026 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2887,7 +2887,7 @@ Package rerunfilecheck Info: File `acl_latex.out' has not changed.
 Here is how much of TeX's memory you used:
  44896 strings out of 467992
  1086414 string characters out of 5433177
- 1728786 words of memory out of 5000000
+ 1729786 words of memory out of 5000000
  73063 multiletter control sequences out of 15000+600000
  638662 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
